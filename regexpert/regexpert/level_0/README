@@ -1,0 +1,5 @@
+Each level should contain:
+story (txt) - text file with the story of the current level
+level_x.py  - the code for the current level
+answers 	- text file where users answer are stored for the current level
+data/ 		- text files that user have to look through

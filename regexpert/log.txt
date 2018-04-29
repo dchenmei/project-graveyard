@@ -1,0 +1,27 @@
+Story:
+You are a Regexpert on secret service assignment 
+
+-- Inspired by CLmystery --
+
+Language / Tools Used:
+Python, Regular expression, shell, grep
+
+Prototype in Words (what can it do):
+It can teach you these commands: [...]
+It contain these files [...]
+It contain this storyline
+
+Required Technology:
+Python and working bash shell. Preferrably on a *nix environment
+
+TODO:
+- How do you design a game on python?
+- Map out the components of the game
+
+Elements:
+- very basic, match by word. Given a bunch of sentences only return the ones with this word
+
+- have an option for user to save their progress (just solutions in a 
+text file!)
+
+- maybe the solutions is to put together an array of charges or answers against the bad guys
